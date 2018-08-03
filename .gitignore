@@ -1,0 +1,4 @@
+venv36
+__pycache__
+db.sqlite3
+.vscode
