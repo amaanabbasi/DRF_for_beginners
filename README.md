@@ -5,8 +5,8 @@
 
 # A guide to Django Rest framework.
 
-#1 Tutorial [Django REst Framework minimal code](http://pengoox.pythonanywhere.com/django_rest_framework_example/). 
-#2 Tutorial [Django djangorestframework-simplejwt() 
+* Tutorial [#1 Django REst Framework minimal code](http://pengoox.pythonanywhere.com/django_rest_framework_example/). 
+* Tutorial [#2 Django djangorestframework-simplejwt() 
 
 
 
